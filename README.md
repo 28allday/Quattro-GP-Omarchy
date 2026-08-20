@@ -37,6 +37,19 @@ To bind it to a key, add to `~/.config/hypr/bindings.lua`:
 hl.bind("SUPER ALT, G", "exec", "omarchy-shell shell toggle nosignal.quattro-gp")
 ```
 
+## Remove
+
+```bash
+omarchy plugin disable nosignal.quattro-gp
+omarchy plugin remove nosignal.quattro-gp
+```
+
+The plugin keeps its ranking tables and driver name in
+`~/.local/state/quattro-gp/state.json`; delete that too if you want the
+scores gone. Nothing else is written anywhere, beyond the plugin's own
+entries in `~/.config/omarchy/shell.json`, which `disable` clears — run it
+a second time if the bar icon was already gone.
+
 ## Controls
 
 | Key | Action |
