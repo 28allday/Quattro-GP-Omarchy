@@ -1,0 +1,11 @@
+dev/shots/
+art/reference/_*.png
+__pycache__/
+*.pyc
+NOTES.local.md
+dev/demo/
+
+# Development-only, per the docs-are-for-users rule: the harnesses and
+# the dev log stay local; the published repo is the user manual.
+dev/
+NOTES.md

@@ -1,0 +1,96 @@
+{
+  "colors": {
+    "sky": "#2a84e4",
+    "skyHaze": "#7fb8e8",
+    "cloud": "#dddedf",
+    "grassA": "#349515",
+    "grassB": "#4aa316",
+    "road": "#3a3b3b",
+    "roadAlt": "#363737",
+    "rumbleA": "#bf220d",
+    "rumbleB": "#d7d5d2",
+    "lane": "#eeeeeb"
+  },
+  "sprites": {
+    "car_straight": {
+      "w": 72,
+      "h": 40
+    },
+    "car_left": {
+      "w": 72,
+      "h": 40
+    },
+    "car_right": {
+      "w": 72,
+      "h": 40
+    },
+    "rival_red": {
+      "w": 56,
+      "h": 40
+    },
+    "rival_blue": {
+      "w": 56,
+      "h": 40
+    },
+    "rival_yellow": {
+      "w": 56,
+      "h": 40
+    },
+    "rival_green": {
+      "w": 56,
+      "h": 40
+    },
+    "rival_white": {
+      "w": 56,
+      "h": 40
+    },
+    "sign_right": {
+      "w": 28,
+      "h": 32
+    },
+    "sign_left": {
+      "w": 28,
+      "h": 32
+    },
+    "sign_100": {
+      "w": 26,
+      "h": 26
+    },
+    "sign_50": {
+      "w": 26,
+      "h": 26
+    },
+    "sign_checker": {
+      "w": 26,
+      "h": 28
+    },
+    "cone_a": {
+      "w": 10,
+      "h": 26
+    },
+    "cone_b": {
+      "w": 10,
+      "h": 26
+    },
+    "marshal": {
+      "w": 40,
+      "h": 48
+    },
+    "tree_big": {
+      "w": 30,
+      "h": 30
+    },
+    "tree_small": {
+      "w": 18,
+      "h": 20
+    },
+    "gantry": {
+      "w": 208,
+      "h": 120
+    },
+    "gantry_finish": {
+      "w": 208,
+      "h": 120
+    }
+  }
+}

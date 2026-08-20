@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "nosignal.quattro-gp",
+  "name": "Quattro GP",
+  "version": "0.1.0",
+  "author": "Gavin Nugent",
+  "license": "MIT",
+  "description": "A 1982-style arcade racer for omarchy-shell. Pixel-art sprites over a GPU-shaded road, rendered at 320x240 and integer-scaled so the whole game sits on one pixel grid, in an arcade cabinet bezel. Four circuits, a qualifying lap, a standing start under lights, an eight-car field with live race positions, checkpoint time extends, and a five-deep ranking table per circuit with arcade initials entry, all surviving a shell restart. Summon with: omarchy-shell shell toggle nosignal.quattro-gp",
+  "kinds": [
+    "panel",
+    "bar-widget"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "Panel.qml",
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Quattro GP",
+    "description": "Bar icon that toggles the Quattro GP cabinet",
+    "category": "Fun",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
