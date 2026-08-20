@@ -7,7 +7,7 @@ checkpoint time extends, puddles that reflect each circuit's own sky and cost
 you grip at speed, and a five-deep ranking table per circuit — initials
 entered before you race, arcade style — that survives a shell restart.
 
-![Quattro GP](screenshots/00-title.jpg)
+![Quattro GP](preview.png)
 
 ![Quattro GP](docs/screenshot.png)
 
